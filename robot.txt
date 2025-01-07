@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://micolionheart.github.io/paliwasanlegend/sitemap.xml
